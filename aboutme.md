@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mí
+subtitle: Ariana Barba  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Ariana. Soy estudainte de la carrera de Ciencias de la Información.
 
 What else do you need?
 
